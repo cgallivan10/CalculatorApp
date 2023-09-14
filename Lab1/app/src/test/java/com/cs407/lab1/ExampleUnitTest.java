@@ -1,4 +1,4 @@
-package com.cs407.myapplication;
+package com.cs407.lab1;
 
 import org.junit.Test;
 
